@@ -1,2 +1,7 @@
 Hello! My name is Hyo bin Kim
 Kumoh National Institute of Technology.
+
+
+computer Sciences 
+C programming
+objext-oriented programming
